@@ -1,17 +1,15 @@
-## Welcome to GitHub Pages
+## Advanced Data Storage and Retrieval
 
-This is Homework #10 - Advanced Databases
+
+This is Homework #10 - Advanced Data Storage and Retrieval
 Jupyter notebook and Python along with the sqlalchemy libraries were used to examine historical weather data. Pandas plot and matplotlib were utilized in creating the visualizations.
+
 ### sqlalchemy
+Sqlalchemy(https://www.sqlalchemy.org/) is a Python SQL toolkit and Object Relational Mapper that gives application developers the full power and flexibility of SQL.
 
 
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
+- 
+- 
 
 1. Numbered
 2. List
