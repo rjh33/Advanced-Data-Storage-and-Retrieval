@@ -1,15 +1,10 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/rjh33/HOME10/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This is Homework #10 - Advanced Databases
+Jupyter notebook and Python along with the sqlalchemy libraries were used to examine historical weather data. Pandas plot and matplotlib were utilized in creating the visualizations.
+### sqlalchemy
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
 
 # Header 1
 ## Header 2
